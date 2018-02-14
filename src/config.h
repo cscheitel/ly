@@ -32,7 +32,7 @@
 #define LY_XAUTHORITY ".lyxauth"
 
 /* paths */
-#define LY_PATH "/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/env"
+#define LY_PATH "/usr/local/sbin:/usr/local/bin:/usr/bin:/usr/bin/env:~/bin"
 #define LY_PATH_XSESSIONS "/usr/share/xsessions"
 
 /* console */
